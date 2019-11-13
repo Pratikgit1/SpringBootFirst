@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.infosys.microservice1.service.impl.CustomerServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.248 s <<< FAILURE! - in com.infosys.microservice1.service.impl.CustomerServiceImplTest
+testCreateCustomer(com.infosys.microservice1.service.impl.CustomerServiceImplTest)  Time elapsed: 0.025 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.infosys.microservice1.service.impl.CustomerServiceImplTest.testCreateCustomer(CustomerServiceImplTest.java:35)
+

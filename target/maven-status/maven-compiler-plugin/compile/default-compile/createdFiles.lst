@@ -1,0 +1,4 @@
+com\infosys\microservice1\entity\Customer.class
+com\infosys\microservice1\controller\CustomerController.class
+com\infosys\microservice1\App.class
+com\infosys\microservice1\repository\CustomerRepository.class
